@@ -4,3 +4,4 @@ api.honeygain.com
 chat.openai.com
 fhbw.app.link
 apps.admob.com
+my.freenom.com
