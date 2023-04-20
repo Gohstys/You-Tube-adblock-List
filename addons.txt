@@ -5,3 +5,4 @@ chat.openai.com
 fhbw.app.link
 apps.admob.com
 my.freenom.com
+loot.tv
