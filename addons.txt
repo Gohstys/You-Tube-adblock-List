@@ -6,3 +6,4 @@ fhbw.app.link
 apps.admob.com
 my.freenom.com
 loot.tv
+ad.admitad.com
